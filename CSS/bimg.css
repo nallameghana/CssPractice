@@ -1,0 +1,23 @@
+.cls {
+    height : 100px;
+    width : 100px;
+    display : inline-block;
+}
+
+#bx1 {
+    background-image: url("nature.jpg");
+    background-size: cover;
+}
+
+#bx2 {
+    background-color: aqua;
+}
+
+#bx3 {
+    background-color: aquamarine;
+}
+
+body {
+    background-image: url("bird.jpg");
+    background-size: cover;
+}

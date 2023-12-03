@@ -1,0 +1,43 @@
+*{
+    padding : 0px;
+    margin : 0px;
+    color : white;
+}
+
+#navbar {
+    height : 60px;
+    background-color : #0f1111;
+    border : 5px solid white;
+}
+
+.amaz {
+    margin-right : 200px;
+    text-decoration : none;
+}
+
+#am {
+    font-size : 25px;
+    color : #f08804;
+}
+
+#but {
+    background-color : #f08804;
+}
+
+.contentbox {
+    height : 100px;
+    width : 100px;
+    display : inline-block;
+    background-color: aqua;
+}
+
+#one {
+    height : 560px;
+}
+
+#last {
+    color : white;
+    height : 60px;
+    background-color: #0f1111;
+    text-align: center;
+}

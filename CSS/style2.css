@@ -1,0 +1,108 @@
+* {
+    padding : 0px;
+    margin : 0px;
+}
+
+#heading1 {
+    height : 50px;
+    width : 150px;
+    background-color :aquamarine;
+    text-align : center;
+    border-width : 3px;
+    border-style : dashed;
+    border-color : black;
+}
+
+.sp {
+    height : 120px;
+    width : 120px;
+    background-color : pink;
+    border : 2px solid brown;  /*This is shorthand*/
+    /*border-radius : 10px;*/
+    /*border-radius : 50%;    this makes my box as circle */
+    padding-left : 25px;
+    padding : 25px;
+    margin : 25px;
+}
+
+#traffic {
+    height : 200px;
+    width : 70px;
+    background-color: antiquewhite;
+    padding : 30px;
+}
+
+#one {
+    height : 60px;
+    width : 60px;
+    background-color : Red;
+    border-radius : 50%;
+    margin-bottom : 10px;
+}
+
+#two {
+    height : 60px;
+    width : 60px;
+    background-color : yellow;
+    border-radius : 50%;
+    margin-bottom : 10px;
+}
+
+
+#three {
+    height : 60px;
+    width : 60px;
+    background-color :  Green;
+    border-radius : 50%;
+    margin-bottom : 10px;
+}
+
+#divv {
+    background-color: aqua;
+    display : inline;          /* This takes width as length of text */
+}
+
+#bb {
+    display : block;   /*Now button takes full width*/
+}
+
+.dtag {
+    height : 100px;
+    width : 100px;
+    background-color: chartreuse;
+    margin : 25px;
+    padding : 25px;
+    display : inline-block
+}
+
+
+#b1 {
+    height : 100px;
+    width : 100px;
+    background-color: rgba(0,0, 255, 0.3);
+    margin : 25px;
+    padding : 25px;
+    display : inline-block;
+
+}
+
+#b2 {
+    height : 100px;
+    width : 100px;
+    background-color: rgba(0,0, 255, 0.6);
+    margin : 25px;
+    padding : 25px;
+    display : inline-block;
+
+}
+
+#b3 {
+    height : 100px;
+    width : 100px;
+    background-color: rgba(0,0, 255, 1);
+    margin : 25px;
+    padding : 25px;
+    display : inline-block;
+
+}
+
